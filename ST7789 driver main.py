@@ -1,4 +1,12 @@
 from machine import Pin, SPI
+from machine import Pin, SPI
+from machine import Pin, SPI
+from machine import Pin, SPI
+from machine import Pin, SPI
+from machine import Pin, SPI
+from machine import Pin, SPI
+from machine import Pin, SPI
+from machine import Pin, SPI
 import time
 import st7789
 
